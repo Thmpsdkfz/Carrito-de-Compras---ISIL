@@ -1,0 +1,11 @@
+.modal .modal-dialog {
+   max-width: 50%;
+  }
+
+#myModal .card{
+    border: none;
+}
+
+#myModal ul{
+    list-style-type: none;
+}
